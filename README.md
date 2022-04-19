@@ -12,6 +12,10 @@ color according to the wallpaper
 ### Thanks to
 - [ yuriy-budiyev/code-scanner ](https://github.com/yuriy-budiyev/code-scanner) 
 
+## TO-DO
+- Add run-time permission to get access to camera
+- support multiple types of QR (pdf, images, etc.)
+
 ## License
 
 ```
