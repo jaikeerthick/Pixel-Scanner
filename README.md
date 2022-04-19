@@ -14,6 +14,7 @@ color according to the wallpaper
 
 ## TO-DO
 - Add run-time permission to get access to camera
+- History 
 - support multiple types of QR (pdf, images, etc.)
 
 ## License
